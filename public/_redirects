@@ -1,5 +1,0 @@
-# Don’t rewrite API requests
-/api/*     /api/:splat   200
-
-# Catch-all rewrite for React
-/*         /index.html   200
